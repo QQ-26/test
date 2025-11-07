@@ -6,5 +6,5 @@ int main() {
         printf("%c",c); 
     }
     printf("\nXinchao");
-    return 1;
+    return 12;
 }
