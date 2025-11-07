@@ -5,5 +5,5 @@ int main() {
     while((c=getchar())!=EOF){    
         printf("%c",c); 
     }
-    return 1;
+    return -1;
 }
