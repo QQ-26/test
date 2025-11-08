@@ -6,5 +6,6 @@ int main() {
         printf("%c",c); 
     }
     printf("\nXinchaocacban");
+    int a=100;
     return 1;
 }
