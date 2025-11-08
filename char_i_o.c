@@ -5,7 +5,5 @@ int main() {
     while((c=getchar())!=EOF){    
         printf("%c",c); 
     }
-    printf("\nXinchaocacban");
-    int a=100;
     return 1;
 }
