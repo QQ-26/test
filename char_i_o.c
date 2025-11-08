@@ -5,6 +5,6 @@ int main() {
     while((c=getchar())!=EOF){    
         printf("%c",c); 
     }
-    printf("\nXinchao");
-    return 12;
+    printf("\nXinchaocacban");
+    return 1;
 }
